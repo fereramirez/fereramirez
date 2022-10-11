@@ -27,15 +27,15 @@
 </p>
 
 <!--  <p> <code>
-    <a href="https://res.cloudinary.com/facu/image/upload/v1621971466/Github/Facundo_Nicolas_Cordoba_Perez_nn02qy.jpg" target="_blank"> 
-      <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/> 
+    <a href="https://res.cloudinary.com/facu/image/upload/v1621971466/Github/Facundo_Nicolas_Cordoba_Perez_nn02qy.jpg" target="_blank">
+      <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/>
   </a> <span> Curriculum ES </span>
 </code></p> -->
 
 <p>
   <code>
     <a
-      href="https://mail.google.com/mail/u/0/?fs=1&to=fanicope@hotmail.com&tf=cm"
+      href="https://mail.google.com/mail/u/0/?fs=1&to=fer.eze.ram@gmail.com&tf=cm"
       target="_blank"
     >
       <img
@@ -110,8 +110,9 @@
     /></a>
     Node.Js</code
   >
-  <code
-    ><a href="https://expressjs.com" target="_blank">
+
+  <code>
+    <a href="https://expressjs.com" target="_blank">
       <img
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
         alt="express"
@@ -119,8 +120,9 @@
     /></a>
     Express.Js</code
   >
-  <code
-    ><a href="https://www.postgresql.org" target="_blank">
+
+  <code>
+    <a href="https://www.postgresql.org" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
         alt="postgresql"
@@ -129,8 +131,9 @@
     /></a>
     PostgreSQL</code
   >
-  <code
-    ><a href="https://www.mongodb.com/" target="_blank">
+
+  <code>
+    <a href="https://www.mongodb.com/" target="_blank">
       <img
         src="https://memo8.com/wp-content/uploads/2020/05/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg-e1588311798927.jpg"
         alt="mongodb"
@@ -140,7 +143,7 @@
   >
 </p>
 
-<h3>> Projects:</h3>
+<h3>Projects:</h3>
 <p align="left">
   <img
     align="center"
@@ -169,8 +172,8 @@
   src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
   width="30"
 />
-<a href="https://providerstore.vercel.app/"
-  ><img
+<a href="https://providerstore.vercel.app/">
+  <img
     align="center"
     src="https://res.cloudinary.com/fenkratos/image/upload/v1665449606/provider_fepqlc.png"
     width="500"
@@ -184,24 +187,23 @@
   height="20"
   width="30"
 />
-<span
-  ><a href="https://another-dogos-app.vercel.app">Another DOGOS App - CRUD</a>
+<span>
+  <a href="https://another-dogos-app.vercel.app">Another DOGOS App - CRUD</a> >
 </span>
+
 <p>
   <a href="https://github.com/fereramirez/Another-DOGGOS-app">Repository</a>
 </p>
 <br />
-<p>eCommerce group project applying MERN method</p>
+<p>CRUD individual project</p>
 
-<img
-  align="center"
-  src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
-  width="30"
-/>
-<a href="https:https://another-dogos-app.vercel.app"
-  ><img
+<a href="https:https://another-dogos-app.vercel.app">
+  <img
+    align="center"
+    src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
+    width="30" />
+  <img
     align="center"
     src="https://res.cloudinary.com/fenkratos/image/upload/v1665449695/dogos_s0swzh.png"
     width="500"
 /></a>
-# fereramirez
