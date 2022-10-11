@@ -70,14 +70,14 @@
 <h3> > Projects:</h3>
 
 <p align="left">
+  <h3>
   <img
     align="center"
     src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg"
     height="20"
     width="30"
   />
-  <h3
-    ><a href="https://providerstore.vercel.app/">Provider Store - eCommerce</a>
+    <a href="https://providerstore.vercel.app/">Provider Store - eCommerce</a>
   </h3>
 </p>
 
@@ -109,13 +109,13 @@
 <br />
 
 <p align="left">
+<h3>
 <img
   align="center"
   src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg"
   height="20"
   width="30"
 />
-<h3>
 <a href="https://another-dogos-app.vercel.app">Another DOGOS App - CRUD</a>
 </h3>
 </p>
