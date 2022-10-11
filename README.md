@@ -63,6 +63,7 @@
     /></a>
     JavaScript</code
   >
+  <br />
   <code
     ><a href="https://www.w3.org/html/" target="_blank">
       <img
@@ -71,7 +72,7 @@
         height="30"
     /></a>
     <span> HTML </span></code
-  >
+  ><br />
   <code
     ><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
       <img
@@ -80,7 +81,7 @@
         height="30"
     /></a>
     CSS</code
-  >
+  ><br />
   <code
     ><a href="https://reactjs.org/" target="_blank">
       <img
@@ -89,7 +90,7 @@
         height="30"
     /></a>
     React</code
-  >
+  ><br />
   <code
     ><a href="https://redux.js.org" target="_blank">
       <img
@@ -99,7 +100,7 @@
         height="30"
     /></a>
     Redux</code
-  >
+  ><br />
   <code
     ><a href="https://nodejs.org" target="_blank">
       <img
@@ -108,7 +109,7 @@
         height="30"
     /></a>
     Node.Js</code
-  >
+  ><br />
   <code>
     <a href="https://expressjs.com" target="_blank">
       <img
@@ -117,7 +118,7 @@
         height="30"
     /></a>
     Express.Js</code
-  >
+  ><br />
   <code>
     <a href="https://www.postgresql.org" target="_blank">
       <img
@@ -127,7 +128,7 @@
         height="30"
     /></a>
     PostgreSQL</code
-  >
+  ><br />
   <code>
     <a href="https://www.mongodb.com/" target="_blank">
       <img
