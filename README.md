@@ -62,9 +62,9 @@
 
 </p>
 
-<h3> > Projects:</h3>
-
 <br />
+
+<h3> > Projects:</h3>
 
 <p align="left">
   <img
