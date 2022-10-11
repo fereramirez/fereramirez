@@ -64,6 +64,8 @@
 
 <h3> > Projects:</h3>
 
+<br />
+
 <p align="left">
   <img
     align="center"
@@ -101,6 +103,7 @@
 
 <br />
 
+<p align="left">
 <img
   align="center"
   src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg"
@@ -110,11 +113,11 @@
 <span>
 <a href="https://another-dogos-app.vercel.app">Another DOGOS App - CRUD</a>
 </span>
+</p>
 
 <p>
   <a href="https://github.com/fereramirez/Another-DOGGOS-app">Repository</a>
 </p>
-<br />
 <p>CRUD individual project</p>
 
 <a href="https://another-dogos-app.vercel.app">
