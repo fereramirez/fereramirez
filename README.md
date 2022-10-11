@@ -65,6 +65,7 @@
 </p>
 
 <br />
+<hr />
 
 <h3> > Projects:</h3>
 
@@ -75,9 +76,9 @@
     height="20"
     width="30"
   />
-  <span
+  <h3
     ><a href="https://providerstore.vercel.app/">Provider Store - eCommerce</a>
-  </span>
+  </h3>
 </p>
 
 <p>
@@ -114,9 +115,9 @@
   height="20"
   width="30"
 />
-<span>
+<h3>
 <a href="https://another-dogos-app.vercel.app">Another DOGOS App - CRUD</a>
-</span>
+</h3>
 </p>
 
 <p>
