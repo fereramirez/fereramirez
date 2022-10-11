@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="#"
-    ><img
-      src="https://res.cloudinary.com/facu/image/upload/v1621970612/Github/horizontal-github_bgvnmr.jpg"
-  /></a>
+<p align="center"><img
+      src="https://res.cloudinary.com/fenkratos/image/upload/v1665450988/code_jljvxf.jpg"
+  />
 </p>
 
 <h1 align="center" width="75%">Fernando Ramirez</h1>
@@ -110,7 +108,7 @@
   width="30"
 />
 <span>
-<a href="https://another-dogos-app.vercel.app">Another DOGOS App - CRUD</a> >
+<a href="https://another-dogos-app.vercel.app">Another DOGOS App - CRUD</a>
 </span>
 
 <p>
