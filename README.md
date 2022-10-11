@@ -100,7 +100,6 @@
     /></a>
     Redux</code
   >
-
   <code
     ><a href="https://nodejs.org" target="_blank">
       <img
@@ -110,7 +109,6 @@
     /></a>
     Node.Js</code
   >
-
   <code>
     <a href="https://expressjs.com" target="_blank">
       <img
@@ -120,7 +118,6 @@
     /></a>
     Express.Js</code
   >
-
   <code>
     <a href="https://www.postgresql.org" target="_blank">
       <img
@@ -131,7 +128,6 @@
     /></a>
     PostgreSQL</code
   >
-
   <code>
     <a href="https://www.mongodb.com/" target="_blank">
       <img
@@ -143,7 +139,8 @@
   >
 </p>
 
-<h3>Projects:</h3>
+<h3>> Projects:</h3>
+
 <p align="left">
   <img
     align="center"
