@@ -1,7 +1,7 @@
-<p align="center"><img
+<!-- <p align="center"><img
       src="https://res.cloudinary.com/fenkratos/image/upload/v1665450988/code_jljvxf.jpg"
   />
-</p>
+</p> -->
 
 <h1 align="center" width="75%">Fernando Ramirez</h1>
 <h2 align="center" width="75%">Full stack developer</h2>
