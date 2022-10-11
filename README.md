@@ -46,6 +46,8 @@
   </code>
 </p>
 
+<br />
+
 <h3> > Lenguages and Tools:</h3>
 
 <p align="left">
@@ -101,6 +103,7 @@
     width="500"
 /></a>
 
+<br />
 <br />
 
 <p align="left">
