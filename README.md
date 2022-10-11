@@ -117,7 +117,7 @@
 <br />
 <p>CRUD individual project</p>
 
-<a href="https:https://another-dogos-app.vercel.app">
+<a href="https://another-dogos-app.vercel.app">
   <img
     align="center"
     src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
