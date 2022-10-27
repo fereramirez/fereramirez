@@ -77,7 +77,7 @@
     height="20"
     width="30"
   />
-    <a href="https://fernando-ramirez.vercel.app/">Provider Store - eCommerce</a>
+    <a href="https://fernando-ramirez.vercel.app/">Portfolio</a>
   </h3>
 </p>
 
@@ -85,7 +85,6 @@
   <a href="https://github.com/fereramirez/portfolio">Repository</a>
 </p>
 <br />
-<p>eCommerce group project applying MERN method</p>
 
 <img
   align="center"
