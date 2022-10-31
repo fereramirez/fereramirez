@@ -168,3 +168,35 @@
     src="https://res.cloudinary.com/fenkratos/image/upload/v1665449695/dogos_s0swzh.png"
     width="500"
 /></a>
+
+<br />
+<hr />
+<br />
+
+<p align="left">
+<h3>
+<img
+  align="center"
+  src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg"
+  height="20"
+  width="30"
+/>
+<a href="https://nafta.vercel.app">NAFTA Productions</a>
+</h3>
+</p>
+
+<p>
+  <a href="https://github.com/fereramirez/nafta-productions">Repository</a>
+</p>
+<p>A small project to start with TypeScript, NextJS and Sass</p>
+
+<a href="https://nafta.vercel.app">
+  <img
+    align="center"
+    src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
+    width="30" />
+  <img
+    align="center"
+    src="https://res.cloudinary.com/fenkratos/image/upload/v1667188639/GitHub/nafta_rdxz7f.png"
+    width="500"
+/></a>
