@@ -133,7 +133,7 @@
 <a href="https://providerstore.vercel.app/">
 <img
     align="center"
-    src="https://res.cloudinary.com/fenkratos/image/upload/v1665449606/provider_fepqlc.png"
+    src="https://res.cloudinary.com/fenkratos/image/upload/v1665449606/GitHub/provider_fepqlc.png"
     width="500"
 /></a>
 
@@ -197,6 +197,6 @@
     width="30" />
   <img
     align="center"
-    src="https://res.cloudinary.com/fenkratos/image/upload/v1665449695/dogos_s0swzh.png"
+    src="https://res.cloudinary.com/fenkratos/image/upload/v1665449695/GitHub/dogos_s0swzh.png"
     width="500"
 /></a>
