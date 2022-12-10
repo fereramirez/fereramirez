@@ -4,7 +4,7 @@
 </p> -->
 
 <h1 align="center" width="75%">Fernando Ramirez</h1>
-<h2 align="center" width="75%">Front end developer</h2>
+<h2 align="center" width="75%">Fullstack developer</h2>
 <h3>
   I'm a versatile person specialized in JavaScript technologies, and a
   passionate in learning new ones.
