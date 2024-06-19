@@ -16,7 +16,7 @@
 ## `Contact`
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-e-ramirez/)
-![Static Badge](https://img.shields.io/badge/fer.eze.ram@gmail.com-message?style=for-the-badge&logo=Gmail&logoColor=%23fff&labelColor=%23ff0000&color=%23808080)
+[![Static Badge](https://img.shields.io/badge/fer.eze.ram@gmail.com-message?style=for-the-badge&logo=Gmail&logoColor=%23fff&labelColor=%23ff0000&color=%23808080)](https://mail.google.com/mail/u/0/?fs=1&to=fer.eze.ram@gmail.com&tf=cm)
 
 <br />
 
