@@ -5,11 +5,11 @@
 
 # Fernando Ramirez
 
-## `Fullstack developer`
+## `Fullstack Developer`
 
 I'm a versatile person specialized in JavaScript technologies, and a passionate in learning new ones.
 
-## Contact:
+## `Contact`
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-e-ramirez/)
 ![Static Badge](https://img.shields.io/badge/fer.eze.ram@gmail.com-message?style=for-the-badge&logo=Gmail&logoColor=%23fff&labelColor=%23ff0000&color=%23808080)
@@ -20,7 +20,7 @@ I'm a versatile person specialized in JavaScript technologies, and a passionate 
   </a> <span> Curriculum ES </span>
 </code></p> -->
 
-## Technologies 💻
+## `Technologies`
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,7 +43,7 @@ I'm a versatile person specialized in JavaScript technologies, and a passionate 
 <br />
 <hr />
 
-<h3> > Projects:</h3>
+## `Projects`
 
 <p align="left">
   <h3>
