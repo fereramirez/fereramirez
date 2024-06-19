@@ -35,7 +35,7 @@ I'm a versatile person specialized in JavaScript technologies, and a passionate 
 
 <img align="center" src="https://github-readme-stats-fereramirezs-projects.vercel.app/api?username=fereramirez&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&line_height=20&theme=shadow_green&icon_color=008000&text_color=A1A1A1&hide=issues,contribs&show=prs_merged" alt="my Github Stats"/>
 
-![Top Langs](https://github-readme-stats-fereramirezs-projects.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shadow_green&icon_color=008000&text_color=A1A1A1)
+![Top Langs](https://github-readme-stats-fereramirezs-projects.vercel.app/api/top-langs/?username=fereramirez&layout=compact&theme=shadow_green&icon_color=008000&text_color=A1A1A1)
 
 <br />
 <hr />
