@@ -5,7 +5,7 @@
 
 
 
-<!-- # <svg width="24px" height="24px" viewBox="0 0 24 24"><g transform="translate(0 -1028.4)"><path d="m-2e-7 1036 2e-7 8.4 12 8v-8.4z" fill="#005c00"/><path d="m24 1036v8.4l-12 8v-8.4z" fill="green"/><path d="m12 1028.4-12 7.6 12 8 12-8-12-7.6z" fill="#00ab00"/><path d="m8.5 1030.6v1.5c0 1.3 1.567 2.3 3.5 2.3s3.5-1 3.5-2.3v-1.5h-7z" fill="#005c00"/><path d="m8.5 1030.6v1.5c0 1.3 1.567 2.3 3.5 2.3v-3.8h-3.5z" fill="#005c00"/><path d="m16 9a3.5 3 0 1 1 -7 0 3.5 3 0 1 1 7 0z" transform="matrix(1 0 0 0.75 -.5 1023.9)" fill="#00ab00"/><path d="m15 1034.6v1.5c0 1.3 1.567 2.3 3.5 2.3s3.5-1 3.5-2.3v-1.5h-7z" fill="#005c00"/><path d="m15 1034.6v1.5c0 1.3 1.567 2.3 3.5 2.3v-3.8h-3.5z" fill="#005c00"/><path d="m16 9a3.5 3 0 1 1 -7 0 3.5 3 0 1 1 7 0z" transform="matrix(1 0 0 0.75 6 1027.9)" fill="#00ab00"/><path d="m2 1034.1v1.5c0 1.3 1.567 2.3 3.5 2.3s3.5-1 3.5-2.3v-1.5h-7z" fill="#005c00"/><path d="m2 1034.1v1.5c0 1.3 1.567 2.3 3.5 2.3v-3.8h-3.5z" fill="#005c00"/><path d="m16 9a3.5 3 0 1 1 -7 0 3.5 3 0 1 1 7 0z" transform="matrix(1 0 0 0.75 -7 1027.4)" fill="#00ab00"/><path d="m8.5 1038.1v1.5c0 1.3 1.567 2.3 3.5 2.3s3.5-1 3.5-2.3v-1.5h-7z" fill="#005c00"/><path d="m8.5 1038.1v1.5c0 1.3 1.567 2.3 3.5 2.3v-3.8h-3.5z" fill="#005c00"/><path d="m16 9a3.5 3 0 1 1 -7 0 3.5 3 0 1 1 7 0z" transform="matrix(1 0 0 0.75 -.5 1031.4)" fill="#00ab00"/></g></svg> Fernando Ramirez
+# <svg width="24px" height="24px" viewBox="0 0 24 24"><g transform="translate(0 -1028.4)"><path d="m-2e-7 1036 2e-7 8.4 12 8v-8.4z" fill="#005c00"/><path d="m24 1036v8.4l-12 8v-8.4z" fill="green"/><path d="m12 1028.4-12 7.6 12 8 12-8-12-7.6z" fill="#00ab00"/><path d="m8.5 1030.6v1.5c0 1.3 1.567 2.3 3.5 2.3s3.5-1 3.5-2.3v-1.5h-7z" fill="#005c00"/><path d="m8.5 1030.6v1.5c0 1.3 1.567 2.3 3.5 2.3v-3.8h-3.5z" fill="#005c00"/><path d="m16 9a3.5 3 0 1 1 -7 0 3.5 3 0 1 1 7 0z" transform="matrix(1 0 0 0.75 -.5 1023.9)" fill="#00ab00"/><path d="m15 1034.6v1.5c0 1.3 1.567 2.3 3.5 2.3s3.5-1 3.5-2.3v-1.5h-7z" fill="#005c00"/><path d="m15 1034.6v1.5c0 1.3 1.567 2.3 3.5 2.3v-3.8h-3.5z" fill="#005c00"/><path d="m16 9a3.5 3 0 1 1 -7 0 3.5 3 0 1 1 7 0z" transform="matrix(1 0 0 0.75 6 1027.9)" fill="#00ab00"/><path d="m2 1034.1v1.5c0 1.3 1.567 2.3 3.5 2.3s3.5-1 3.5-2.3v-1.5h-7z" fill="#005c00"/><path d="m2 1034.1v1.5c0 1.3 1.567 2.3 3.5 2.3v-3.8h-3.5z" fill="#005c00"/><path d="m16 9a3.5 3 0 1 1 -7 0 3.5 3 0 1 1 7 0z" transform="matrix(1 0 0 0.75 -7 1027.4)" fill="#00ab00"/><path d="m8.5 1038.1v1.5c0 1.3 1.567 2.3 3.5 2.3s3.5-1 3.5-2.3v-1.5h-7z" fill="#005c00"/><path d="m8.5 1038.1v1.5c0 1.3 1.567 2.3 3.5 2.3v-3.8h-3.5z" fill="#005c00"/><path d="m16 9a3.5 3 0 1 1 -7 0 3.5 3 0 1 1 7 0z" transform="matrix(1 0 0 0.75 -.5 1031.4)" fill="#00ab00"/></g></svg> Fernando Ramirez
 
 ## `Fullstack Developer`
 
@@ -40,19 +40,19 @@
 
 <br />
 
- -->
+
 ## `Stats`
 
 <!-- &theme=shadow_green&icon_color=008000&text_color=A1A1A1 -->
 
 [![Fernando's GitHub stats](https://github-readme-stats-fereramirezs-projects.vercel.app/api?username=fereramirez&include_all_commits=true&hide=issues&show=prs_merged&number_format=long&line_height=20&show_icons=true&hide_border=true&border_radius=0&bg_color=000000&title_color=A1A1A1&icon_color=008000&text_color=A1A1A1&ring_color=008000#gh-dark-mode-only)](https://github.com/fereramirez?tab=repositories) [![Top Langs](https://github-readme-stats-fereramirezs-projects.vercel.app/api/top-langs/?username=fereramirez&layout=compact&hide_border=true&border_radius=0&bg_color=000000&title_color=A1A1A1&icon_color=008000&text_color=A1A1A1#gh-dark-mode-only)](https://github.com/fereramirez?tab=repositories)
-[![Fernando's GitHub stats](https://github-readme-stats-fereramirezs-projects.vercel.app/api?username=fereramirez&include_all_commits=true&hide=issues&show=prs_merged&number_format=long&line_height=20&show_icons=true&hide_border=true&border_radius=0&bg_color=A1A1A1&title_color=000000&icon_color=008000&text_color=000000&ring_color=008000#gh-light-mode-only)](https://github.com/fereramirez?tab=repositories) [![Top Langs](https://github-readme-stats-fereramirezs-projects.vercel.app/api/top-langs/?username=fereramirez&layout=compact&hide_border=true&border_radius=0&bg_color=A1A1A1&title_color=000000&icon_color=008000&text_color=000000#gh-light-mode-only)](https://github.com/fereramirez?tab=repositories)
-
+<!-- [![Fernando's GitHub stats](https://github-readme-stats-fereramirezs-projects.vercel.app/api?username=fereramirez&include_all_commits=true&hide=issues&show=prs_merged&number_format=long&line_height=20&show_icons=true&hide_border=true&border_radius=0&bg_color=A1A1A1&title_color=000000&icon_color=008000&text_color=000000&ring_color=008000#gh-light-mode-only)](https://github.com/fereramirez?tab=repositories) [![Top Langs](https://github-readme-stats-fereramirezs-projects.vercel.app/api/top-langs/?username=fereramirez&layout=compact&hide_border=true&border_radius=0&bg_color=A1A1A1&title_color=000000&icon_color=008000&text_color=000000#gh-light-mode-only)](https://github.com/fereramirez?tab=repositories) -->
 
 <br />
 
-<!-- ## `Projects`
+## `Projects`
 
+<!-- [![Portfolio](https://res.cloudinary.com/fenkratos/image/upload/v1666897318/GitHub/portfolio-home_j0lbsc.png)](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg) -->
 ### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [Portfolio](https://fernando-ramirez.vercel.app/)
 
 [![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/portfolio)
@@ -131,5 +131,3 @@ CRUD individual project
     src="https://res.cloudinary.com/fenkratos/image/upload/v1665449695/GitHub/dogos_s0swzh.png"
     width="600" />
 </a>
-
- -->
