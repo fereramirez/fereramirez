@@ -40,16 +40,6 @@
 
 <br />
 
-
-## `Stats`
-
-<!-- &theme=shadow_green&icon_color=008000&text_color=A1A1A1 -->
-
-[![Fernando's GitHub stats](https://github-readme-stats-fereramirezs-projects.vercel.app/api?username=fereramirez&include_all_commits=true&hide=issues&show=prs_merged&number_format=long&line_height=20&show_icons=true&hide_border=true&border_radius=0&bg_color=000000&title_color=A1A1A1&icon_color=008000&text_color=A1A1A1&ring_color=008000#gh-dark-mode-only)](https://github.com/fereramirez?tab=repositories#gh-dark-mode-only) [![Top Langs](https://github-readme-stats-fereramirezs-projects.vercel.app/api/top-langs/?username=fereramirez&layout=compact&hide_border=true&border_radius=0&bg_color=000000&title_color=A1A1A1&icon_color=008000&text_color=A1A1A1#gh-dark-mode-only)](https://github.com/fereramirez?tab=repositories#gh-dark-mode-only)
-[![Fernando's GitHub stats](https://github-readme-stats-fereramirezs-projects.vercel.app/api?username=fereramirez&include_all_commits=true&hide=issues&show=prs_merged&number_format=long&line_height=20&show_icons=true&border_radius=0&bg_color=fff&title_color=000000&icon_color=008000&text_color=000000&ring_color=008000#gh-light-mode-only)](https://github.com/fereramirez?tab=repositories#gh-light-mode-only) [![Top Langs](https://github-readme-stats-fereramirezs-projects.vercel.app/api/top-langs/?username=fereramirez&layout=compact&border_radius=0&bg_color=fff&title_color=000000&icon_color=008000&text_color=000000#gh-light-mode-only)](https://github.com/fereramirez?tab=repositories#gh-light-mode-only)
-
-<br />
-
 ## `Projects`
 
 <!-- [![Portfolio](https://res.cloudinary.com/fenkratos/image/upload/v1666897318/GitHub/portfolio-home_j0lbsc.png)](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg) -->
@@ -131,3 +121,12 @@ CRUD individual project
     src="https://res.cloudinary.com/fenkratos/image/upload/v1665449695/GitHub/dogos_s0swzh.png"
     width="600" />
 </a>
+
+<br />
+
+## `Stats`
+
+<!-- &theme=shadow_green&icon_color=008000&text_color=A1A1A1 -->
+
+[![Fernando's GitHub stats](https://github-readme-stats-fereramirezs-projects.vercel.app/api?username=fereramirez&include_all_commits=true&hide=issues&show=prs_merged&number_format=long&line_height=20&show_icons=true&hide_border=true&border_radius=0&bg_color=000000&title_color=A1A1A1&icon_color=008000&text_color=A1A1A1&ring_color=008000#gh-dark-mode-only)](https://github.com/fereramirez?tab=repositories#gh-dark-mode-only) [![Top Langs](https://github-readme-stats-fereramirezs-projects.vercel.app/api/top-langs/?username=fereramirez&layout=compact&hide_border=true&border_radius=0&bg_color=000000&title_color=A1A1A1&icon_color=008000&text_color=A1A1A1#gh-dark-mode-only)](https://github.com/fereramirez?tab=repositories#gh-dark-mode-only)
+[![Fernando's GitHub stats](https://github-readme-stats-fereramirezs-projects.vercel.app/api?username=fereramirez&include_all_commits=true&hide=issues&show=prs_merged&number_format=long&line_height=20&show_icons=true&border_radius=0&bg_color=fff&title_color=000000&icon_color=008000&text_color=000000&ring_color=008000#gh-light-mode-only)](https://github.com/fereramirez?tab=repositories#gh-light-mode-only) [![Top Langs](https://github-readme-stats-fereramirezs-projects.vercel.app/api/top-langs/?username=fereramirez&layout=compact&border_radius=0&bg_color=fff&title_color=000000&icon_color=008000&text_color=000000#gh-light-mode-only)](https://github.com/fereramirez?tab=repositories#gh-light-mode-only)
