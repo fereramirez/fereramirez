@@ -5,7 +5,7 @@
 
 # Fernando Ramirez
 
-## `Fullstack Developer`
+## `Fullstack developer`
 
 I'm a versatile person specialized in JavaScript technologies, and a passionate in learning new ones.
 
@@ -38,7 +38,9 @@ I'm a versatile person specialized in JavaScript technologies, and a passionate 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fereramirez&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=shadow_green&icon_color=008000&text_color=A1A1A1&hide=issues,contribs&show=prs_merged" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats-fereramirezs-projects.vercel.app/api?username=fereramirez&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&line_height=20&theme=shadow_green&icon_color=008000&text_color=A1A1A1&hide=issues,contribs&show=prs_merged" alt="my Github Stats"/>
+
+![Top Langs](https://github-readme-stats-fereramirezs-projects.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shadow_green&icon_color=008000&text_color=A1A1A1)
 
 <br />
 <hr />
