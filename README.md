@@ -3,6 +3,8 @@
   />
 </p> -->
 
+<img src="/svg/brick.svg">
+
 # Fernando Ramirez
 
 ## `Fullstack developer`
@@ -13,12 +15,6 @@ I'm a versatile person specialized in JavaScript technologies, and a passionate 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-e-ramirez/)
 ![Static Badge](https://img.shields.io/badge/fer.eze.ram@gmail.com-message?style=for-the-badge&logo=Gmail&logoColor=%23fff&labelColor=%23ff0000&color=%23808080)
-
-<!--  <p> <code>
-    <a href="https://res.cloudinary.com/facu/image/upload/v1621971466/Github/Facundo_Nicolas_Cordoba_Perez_nn02qy.jpg" target="_blank">
-      <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273444/Proyects/cv_ctuedj.svg" alt="CV" height="30"/>
-  </a> <span> Curriculum ES </span>
-</code></p> -->
 
 ## `Technologies`
 
