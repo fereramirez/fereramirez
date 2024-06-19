@@ -51,22 +51,8 @@ I'm a versatile person specialized in JavaScript technologies, and a passionate 
 
 ## `Projects`
 
-<p align="left">
-  <h3>
-  <img
-    align="center"
-    src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg"
-    height="20"
-    width="30"
-  />
-    <a href="https://fernando-ramirez.vercel.app/">Portfolio</a>
-  </h3>
-</p>
-
-<p>
-  <a href="https://github.com/fereramirez/portfolio">Repository</a>
-</p>
-<br />
+### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [Portfolio](https://fernando-ramirez.vercel.app/)
+[![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/portfolio)
 
 <img
   align="center"
@@ -74,38 +60,21 @@ I'm a versatile person specialized in JavaScript technologies, and a passionate 
   width="30"
 />
 <a href="https://fernando-ramirez.vercel.app/">
-<img
+  <img
     align="center"
     src="https://res.cloudinary.com/fenkratos/image/upload/v1666897318/GitHub/portfolio-home_j0lbsc.png"
-    width="500"
-/></a>
+    width="500" />
+</a>
 
 <br />
 <hr />
-<br />
 
-<p align="left">
-  <h3>
-  <img
-    align="center"
-    src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg"
-    height="20"
-    width="30"
-  />
-    <a href="https://providerstore.vercel.app/">Provider Store - eCommerce</a>
-  </h3>
-</p>
+### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [Provider Store](https://providerstore.vercel.app/)
 
-<p>
-  <a href="https://github.com/fereramirez/provider-client">Client repository</a>
-</p>
-<p>
-  <a href="https://github.com/fereramirez/provider-backend"
-    >Backend repository</a
-  >
-</p>
-<br />
-<p>eCommerce group project applying MERN method</p>
+Ecommerce group project using MERN stack
+
+[![Static Badge](https://img.shields.io/badge/client-repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/provider-client)
+[![Static Badge](https://img.shields.io/badge/api-repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/provider-backend)
 
 <img
   align="center"
@@ -113,72 +82,51 @@ I'm a versatile person specialized in JavaScript technologies, and a passionate 
   width="30"
 />
 <a href="https://providerstore.vercel.app/">
-<img
+  <img
     align="center"
-    src="https://res.cloudinary.com/fenkratos/image/upload/v1665449606/GitHub/provider_fepqlc.png"
-    width="500"
-/></a>
+    src="https://res.cloudinary.com/fenkratos/video/upload/e_loop/dl_30/v1666298641/Portfolio/video-provider2_axhz0j.gif"
+    width="500" />
+</a>
 
 <br />
 <hr />
-<br />
 
-<p align="left">
-<h3>
+### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [NAFTA Productions](https://nafta.vercel.app)
+
+A small project to start with TypeScript, NextJS and SASS
+
+[![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/nafta-productions)
+
 <img
   align="center"
-  src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg"
-  height="20"
+  src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
   width="30"
 />
-<a href="https://nafta.vercel.app">NAFTA Productions</a>
-</h3>
-</p>
-
-<p>
-  <a href="https://github.com/fereramirez/nafta-productions">Repository</a>
-</p>
-<p>A small project to start with TypeScript, NextJS and Sass</p>
-
 <a href="https://nafta.vercel.app">
   <img
     align="center"
-    src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
-    width="30" />
-  <img
-    align="center"
-    src="https://res.cloudinary.com/fenkratos/image/upload/v1667188639/GitHub/nafta_rdxz7f.png"
-    width="500"
-/></a>
+    src="https://res.cloudinary.com/fenkratos/video/upload/e_loop/dl_40/v1667187375/Portfolio/video-nafta_ihnjyo.gif"
+    width="500" />
+</a>
 
 <br />
 <hr />
-<br />
 
-<p align="left">
-<h3>
+### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [Another DOGOS App](https://another-dogos-app.vercel.app)
+
+CRUD individual project
+
+[![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/Another-DOGGOS-app)
+
 <img
   align="center"
-  src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg"
-  height="20"
+  src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
   width="30"
 />
-<a href="https://another-dogos-app.vercel.app">Another DOGOS App - CRUD</a>
-</h3>
-</p>
-
-<p>
-  <a href="https://github.com/fereramirez/Another-DOGGOS-app">Repository</a>
-</p>
-<p>CRUD individual project</p>
-
 <a href="https://another-dogos-app.vercel.app">
   <img
     align="center"
-    src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
-    width="30" />
-  <img
-    align="center"
-    src="https://res.cloudinary.com/fenkratos/image/upload/v1665449695/GitHub/dogos_s0swzh.png"
-    width="500"
-/></a>
+    src="https://res.cloudinary.com/fenkratos/video/upload/e_loop/dl_30/v1666298304/Portfolio/video-dogos2_ayrgua.gif"
+    width="500" />
+</a>
+
