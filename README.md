@@ -47,9 +47,6 @@ I'm a versatile person specialized in JavaScript technologies, and a passionate 
 
 ![Fernando's GitHub stats](https://github-readme-stats-fereramirezs-projects.vercel.app/api?username=fereramirez&include_all_commits=true&hide_rank=true&hide=issues,contribs&show=prs_merged&line_height=20&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats-fereramirezs-projects.vercel.app/api/top-langs/?username=fereramirez&layout=compact&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
-
-
 <br />
 
 ## `Projects`
