@@ -52,6 +52,7 @@
 ## `Projects`
 
 ### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [Portfolio](https://fernando-ramirez.vercel.app/)
+
 [![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/portfolio)
 
 <img
@@ -65,6 +66,8 @@
     src="https://res.cloudinary.com/fenkratos/image/upload/v1666897318/GitHub/portfolio-home_j0lbsc.png"
     width="600" />
 </a>
+
+<!-- [![Portfolio](https://res.cloudinary.com/fenkratos/image/upload/v1666897318/GitHub/portfolio-home_j0lbsc.png)](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg) -->
 
 <br />
 <hr />
@@ -110,7 +113,7 @@ A small project to start with TypeScript, NextJS and SASS
 </a>
 
 <br />
-<hr />
+---
 
 ### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [Another DOGOS App](https://another-dogos-app.vercel.app)
 
