@@ -63,7 +63,7 @@ I'm a versatile person specialized in JavaScript technologies, and a passionate 
   <img
     align="center"
     src="https://res.cloudinary.com/fenkratos/image/upload/v1666897318/GitHub/portfolio-home_j0lbsc.png"
-    width="500" />
+    width="600" />
 </a>
 
 <br />
@@ -84,8 +84,8 @@ Ecommerce group project using MERN stack
 <a href="https://providerstore.vercel.app/">
   <img
     align="center"
-    src="https://res.cloudinary.com/fenkratos/video/upload/e_loop/dl_30/v1666298641/Portfolio/video-provider2_axhz0j.gif"
-    width="500" />
+    src="https://res.cloudinary.com/fenkratos/image/upload/v1665449606/GitHub/provider_fepqlc.png"
+    width="600" />
 </a>
 
 <br />
@@ -105,8 +105,8 @@ A small project to start with TypeScript, NextJS and SASS
 <a href="https://nafta.vercel.app">
   <img
     align="center"
-    src="https://res.cloudinary.com/fenkratos/video/upload/e_loop/dl_40/v1667187375/Portfolio/video-nafta_ihnjyo.gif"
-    width="500" />
+    src="https://res.cloudinary.com/fenkratos/image/upload/v1667188639/GitHub/nafta_rdxz7f.png"
+    width="600" />
 </a>
 
 <br />
@@ -126,7 +126,7 @@ CRUD individual project
 <a href="https://another-dogos-app.vercel.app">
   <img
     align="center"
-    src="https://res.cloudinary.com/fenkratos/video/upload/e_loop/dl_30/v1666298304/Portfolio/video-dogos2_ayrgua.gif"
-    width="500" />
+    src="https://res.cloudinary.com/fenkratos/image/upload/v1665449695/GitHub/dogos_s0swzh.png"
+    width="600" />
 </a>
 
