@@ -113,7 +113,6 @@ A small project to start with TypeScript, NextJS and SASS
 </a>
 
 <br />
----
 
 ### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [Another DOGOS App](https://another-dogos-app.vercel.app)
 
