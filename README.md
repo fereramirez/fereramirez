@@ -102,6 +102,7 @@ A small project to start with TypeScript, NextJS and SASS
 </a>
 
 <br />
+<hr />
 
 ### <img align="center" src="https://res.cloudinary.com/fenkratos/image/upload/v1718845818/GitHub/njobphoed8tiuld1r4bc.svg" height="20" width="30" /> [Another DOGOS App](https://another-dogos-app.vercel.app)
 
@@ -121,6 +122,7 @@ CRUD individual project
     width="600" />
 </a>
 
+<br />
 <hr />
 
 ## `Stats`
