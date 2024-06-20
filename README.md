@@ -44,7 +44,7 @@
 
 ### <img align="center" src="https://res.cloudinary.com/fenkratos/image/upload/v1718845818/GitHub/njobphoed8tiuld1r4bc.svg" height="20" width="30" /> [Portfolio](https://fernando-ramirez.vercel.app/)
 
-[![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/portfolio)
+[![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=4493f8)](https://github.com/fereramirez/portfolio)
 
 <img
   align="center"
@@ -65,8 +65,8 @@
 
 Ecommerce group project using MERN stack
 
-[![Static Badge](https://img.shields.io/badge/client-repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/provider-client)
-[![Static Badge](https://img.shields.io/badge/api-repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/provider-backend)
+[![Static Badge](https://img.shields.io/badge/client-repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=4493f8)](https://github.com/fereramirez/provider-client)
+[![Static Badge](https://img.shields.io/badge/api-repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=4493f8)](https://github.com/fereramirez/provider-backend)
 
 <img
   align="center"
@@ -87,7 +87,7 @@ Ecommerce group project using MERN stack
 
 A small project to start with TypeScript, NextJS and SASS
 
-[![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/nafta-productions)
+[![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=4493f8)](https://github.com/fereramirez/nafta-productions)
 
 <img
   align="center"
@@ -107,7 +107,7 @@ A small project to start with TypeScript, NextJS and SASS
 
 CRUD individual project
 
-[![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/Another-DOGGOS-app)
+[![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=4493f8)](https://github.com/fereramirez/Another-DOGGOS-app)
 
 <img
   align="center"
