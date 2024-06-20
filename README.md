@@ -42,13 +42,13 @@
 
 ## `Projects`
 
-### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [Portfolio](https://fernando-ramirez.vercel.app/)
+### <img align="center" src="https://res.cloudinary.com/fenkratos/image/upload/v1718845818/GitHub/njobphoed8tiuld1r4bc.svg" height="20" width="30" /> [Portfolio](https://fernando-ramirez.vercel.app/)
 
 [![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=black)](https://github.com/fereramirez/portfolio)
 
 <img
   align="center"
-  src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
+  src="https://res.cloudinary.com/fenkratos/image/upload/v1718845817/GitHub/ebwycviolhe602sfuaze.svg"
   width="30"
 />
 <a href="https://fernando-ramirez.vercel.app/">
@@ -61,7 +61,7 @@
 <br />
 <hr />
 
-### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [Provider Store](https://providerstore.vercel.app/)
+### <img align="center" src="https://res.cloudinary.com/fenkratos/image/upload/v1718845818/GitHub/njobphoed8tiuld1r4bc.svg" height="20" width="30" /> [Provider Store](https://providerstore.vercel.app/)
 
 Ecommerce group project using MERN stack
 
@@ -70,7 +70,7 @@ Ecommerce group project using MERN stack
 
 <img
   align="center"
-  src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
+  src="https://res.cloudinary.com/fenkratos/image/upload/v1718845817/GitHub/ebwycviolhe602sfuaze.svg"
   width="30"
 />
 <a href="https://providerstore.vercel.app/">
@@ -83,7 +83,7 @@ Ecommerce group project using MERN stack
 <br />
 <hr />
 
-### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [NAFTA Productions](https://nafta.vercel.app)
+### <img align="center" src="https://res.cloudinary.com/fenkratos/image/upload/v1718845818/GitHub/njobphoed8tiuld1r4bc.svg" height="20" width="30" /> [NAFTA Productions](https://nafta.vercel.app)
 
 A small project to start with TypeScript, NextJS and SASS
 
@@ -91,7 +91,7 @@ A small project to start with TypeScript, NextJS and SASS
 
 <img
   align="center"
-  src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
+  src="https://res.cloudinary.com/fenkratos/image/upload/v1718845817/GitHub/ebwycviolhe602sfuaze.svg"
   width="30"
 />
 <a href="https://nafta.vercel.app">
@@ -103,7 +103,7 @@ A small project to start with TypeScript, NextJS and SASS
 
 <br />
 
-### <img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /> [Another DOGOS App](https://another-dogos-app.vercel.app)
+### <img align="center" src="https://res.cloudinary.com/fenkratos/image/upload/v1718845818/GitHub/njobphoed8tiuld1r4bc.svg" height="20" width="30" /> [Another DOGOS App](https://another-dogos-app.vercel.app)
 
 CRUD individual project
 
@@ -111,7 +111,7 @@ CRUD individual project
 
 <img
   align="center"
-  src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg"
+  src="https://res.cloudinary.com/fenkratos/image/upload/v1718845817/GitHub/ebwycviolhe602sfuaze.svg"
   width="30"
 />
 <a href="https://another-dogos-app.vercel.app">
