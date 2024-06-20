@@ -121,7 +121,7 @@ CRUD individual project
     width="600" />
 </a>
 
-<br />
+<hr />
 
 ## `Stats`
 
