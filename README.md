@@ -85,7 +85,7 @@ Ecommerce group project using MERN stack
 
 ### <img align="center" src="https://res.cloudinary.com/fenkratos/image/upload/v1718845818/GitHub/njobphoed8tiuld1r4bc.svg" height="20" width="30" /> [NAFTA Productions](https://nafta.vercel.app)
 
-A small project to start with TypeScript, NextJS and SASS
+Small project to start learning TypeScript, NextJS and SASS
 
 [![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=4493f8)](https://github.com/fereramirez/nafta-productions)
 
