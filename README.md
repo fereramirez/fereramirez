@@ -83,6 +83,25 @@ Ecommerce group project using MERN stack
 <br />
 <hr />
 
+### <img align="center" src="https://res.cloudinary.com/fenkratos/image/upload/v1718845818/GitHub/njobphoed8tiuld1r4bc.svg" height="20" width="30" /> [WizardForm](https://wizard-form-seven.vercel.app/)
+
+[![Static Badge](https://img.shields.io/badge/repo-message?style=for-the-badge&logo=github&logoSize=35&logoColor=white&labelColor=black&color=4493f8)](https://github.com/fereramirez/wizard-form)
+
+<img
+  align="center"
+  src="https://res.cloudinary.com/fenkratos/image/upload/v1718845817/GitHub/ebwycviolhe602sfuaze.svg"
+  width="30"
+/>
+<a href="https://wizard-form-seven.vercel.app/">
+  <img
+    align="center"
+    src="https://res.cloudinary.com/fenkratos/image/upload/v1756069632/GitHub/wizard-form_yfpglk.png"
+    width="600" />
+</a>
+
+<br />
+<hr />
+
 ### <img align="center" src="https://res.cloudinary.com/fenkratos/image/upload/v1718845818/GitHub/njobphoed8tiuld1r4bc.svg" height="20" width="30" /> [NAFTA Productions](https://nafta.vercel.app)
 
 Small project to start learning TypeScript, NextJS and SASS
